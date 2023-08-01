@@ -24,4 +24,4 @@ javascript
 php
 Bootstrap
 # Auteur
-Ce projet a été développé par serigne fallou sec
+Ce projet a été développé par serigne fallou seck
